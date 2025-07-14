@@ -1,0 +1,2 @@
+rouge1,rouge2,rougeL,bleu,bertscore_precision,bertscore_recall,bertscore_f1
+0.196719339,0.046548995,0.17363423,0.210636573,0.867559584,0.877567526,0.872445614
